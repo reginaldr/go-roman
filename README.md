@@ -1,4 +1,4 @@
-Hello
+Hello Jenkins
 
 Run the follwing command to run the simple web server:
 $ go run http.go  
